@@ -18,5 +18,5 @@
 
 #### 자료 구조
 
-- [ArrayList vs LinkedList](./DataStructure/ArrayList vs LinkedList.md)
+- [ArrayList vs LinkedList](./DataStructure/ArrayList_vs_LinkedList.md)
 

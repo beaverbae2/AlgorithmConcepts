@@ -2,7 +2,7 @@
 
 >알고리즘 개념 기록 창고 by.BeaverBae
 
-
+<br>
 
 #### 그래프 관련 알고리즘
 
@@ -11,13 +11,19 @@
 
 - [벨만 포드 알고리즘](./Graph/BellmanFord/BellmanFord.md)
 
-
+<br>
 
 #### 시뮬레이션
 
 - [시뮬레이션](./Simulation/Simulation.md)
 
+<br>
 
+#### 집합론
+
+- [UnionFind](./Set/UnionFind.md)
+
+<br>
 
 #### 자료 구조
 

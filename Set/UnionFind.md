@@ -49,12 +49,12 @@
 
    ```java
    public static void unionParent(int a, int b) {
-       a = getParent(a);
-       b = getParent(b);
+   	a = getParent(a);
+   	b = getParent(b);
        
-   	// 크기가 작은 노드를 부모로 함
-       if (a < b) parent[b] = a; 
-       else parent[a] = b;
+  	// 크기가 작은 노드를 부모로 함
+  	if (a < b) parent[b] = a; 
+   	else parent[a] = b;
    }
    ```
 

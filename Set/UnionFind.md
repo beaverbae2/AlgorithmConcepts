@@ -41,7 +41,7 @@
    ```java
    public static int getParent(int v) {// 부모 노드와 자기 자신이 같을 때까지 반복	
    	if (parent[v] == v) return parent[v]; 	
-       return parent[v] = getParent(parent[v]);// 경로 압축
+   	return parent[v] = getParent(parent[v]);// 경로 압축
    }
    ```
 

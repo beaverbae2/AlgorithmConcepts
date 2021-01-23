@@ -9,7 +9,7 @@
 **정의**
 
 - <key, value> 쌍으로 이뤄진 자료구조
-- key를 통해 value를 확인
+- key는 고유값이며,  key를 통해 value를 확인
 
 <br>
 

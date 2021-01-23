@@ -39,3 +39,5 @@
 
 - [Set](./DataStructure/Set.md)
 - [Map](./DataStructure/Map.md)
+
+- [HashTable](./DataStructure/Hash_Table.md)

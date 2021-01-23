@@ -37,3 +37,5 @@
 
 - [ArrayList vs LinkedList](./DataStructure/ArrayList_vs_LinkedList.md)
 
+- [Set](./DataStructure/Set.md)
+- [Map](./DataStructure/Map.md)

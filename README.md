@@ -6,13 +6,19 @@
 
 #### 그래프 관련 알고리즘
 
+- **DFS**
+  - [DFS를 활용한 그래프의 사이클 존재 확인](./Graph/DFS/DFS를_활용한_그래프의_사이클_존재_확인.md)
+
 - **BFS**
   - [그래프가 없지만 BFS를 쓰는 경우](./Graph/BFS/그래프가_없지만_BFS를_쓰는_경우.md)
   - [재방문이 가능한 경우에서의 BFS](./Graph/BFS/재방문이_가능한_경우에서의_BFS.md)
-- [Dijkstra(다익스트라)](./Graph/Dijkstra/Dijkstra(다익스트라)_알고리즘.md)
-- [MST(Minimum Spanning Tree)](./Graph/MST/MST.md)
+- **Dijkstra(다익스트라)**
+  - [Dijkstra(다익스트라)](./Graph/Dijkstra/Dijkstra(다익스트라)_알고리즘.md)
+- **MST(Minimum Spanning Tree)**
+  - [MST(Minimum Spanning Tree)](./Graph/MST/MST.md)
   - [Kruskal 알고리즘](./Graph/MST/Kruskal_알고리즘.md)
-- [벨만 포드 알고리즘](./Graph/BellmanFord/BellmanFord.md)
+- **벨만 포드 알고리즘**
+  - [벨만 포드 알고리즘](./Graph/BellmanFord/BellmanFord.md)
 
 <br>
 

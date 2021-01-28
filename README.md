@@ -11,6 +11,7 @@
 
 - **BFS**
   - [그래프가 없지만 BFS를 쓰는 경우](./Graph/BFS/그래프가_없지만_BFS를_쓰는_경우.md)
+  - [이동이 까다로운 BFS](./Graph/BFS/이동이_까다로운_BFS.md)
   - [재방문이 가능한 경우에서의 BFS](./Graph/BFS/재방문이_가능한_경우에서의_BFS.md)
 - **Dijkstra(다익스트라)**
   - [Dijkstra(다익스트라)](./Graph/Dijkstra/Dijkstra(다익스트라)_알고리즘.md)

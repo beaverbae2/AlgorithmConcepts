@@ -26,6 +26,12 @@
 
 <br>
 
+#### Binary search (이분 탐색)
+
+- [Binary search (이분 탐색)](./BinarySearch/Binary_Search.md)
+
+<br>
+
 #### Two Pointers (투 포인터)
 
 - [Two Pointers (투 포인터)](./TwoPointers/TwoPointers.md)

@@ -29,7 +29,7 @@
 #### Binary search (이분 탐색)
 
 - [Binary search (이분 탐색)](./BinarySearch/Binary_Search.md)
-- [Parametric search (파라메트릭 서치)][./BinarySearch/Parametric_search.md]
+- [Parametric search (파라메트릭 서치)](./BinarySearch/Parametric_search.md)
 
 <br>
 
@@ -59,3 +59,5 @@
 - [Map](./DataStructure/Map.md)
 
 - [HashTable](./DataStructure/Hash_Table.md)
+
+[./BinarySearch/Parametric_search.md]: 

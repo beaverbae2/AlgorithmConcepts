@@ -51,6 +51,14 @@
 
 <br>
 
+#### 정렬
+
+- [Bubble sort](./Sorting/Bubble_sort.md)
+- [Insertion sort](./Sorting/Insertion_sort.md)
+- [Selection sort](./Sorting/Selection_sort.md)
+
+<br>
+
 #### 자료 구조
 
 - [ArrayList vs LinkedList](./DataStructure/ArrayList_vs_LinkedList.md)

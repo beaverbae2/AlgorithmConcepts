@@ -59,5 +59,3 @@
 - [Map](./DataStructure/Map.md)
 
 - [HashTable](./DataStructure/Hash_Table.md)
-
-[./BinarySearch/Parametric_search.md]: 

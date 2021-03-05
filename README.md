@@ -28,6 +28,12 @@
 
 <br>
 
+#### 트리
+
+- [트리의 지름 구하기](./Tree/트리의_지름_구하기.md)
+
+<br>
+
 #### Binary search (이분 탐색)
 
 - [Binary search (이분 탐색)](./BinarySearch/Binary_Search.md)

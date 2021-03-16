@@ -59,6 +59,10 @@
 
 <br>
 
+#### 수학
+
+- [소수(Prime number)](./Math/PrimeNumber.md)
+
 #### 집합론
 
 - [UnionFind](./Set/UnionFind.md)

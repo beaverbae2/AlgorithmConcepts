@@ -77,6 +77,7 @@
 - [Insertion sort](./Sorting/Insertion_sort.md)
 - [Selection sort](./Sorting/Selection_sort.md)
 - [Merge sort](./Sorting/Merge_sort.md)
+- [Quick sort](./Sorting/Quick_sort.md)
 
 <br>
 

@@ -76,6 +76,7 @@
 - [Bubble sort](./Sorting/Bubble_sort.md)
 - [Insertion sort](./Sorting/Insertion_sort.md)
 - [Selection sort](./Sorting/Selection_sort.md)
+- [Merge sort](./Sorting/Merge_sort.md)
 
 <br>
 

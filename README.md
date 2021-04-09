@@ -44,6 +44,7 @@
 
 - [Binary search (이분 탐색)](./BinarySearch/Binary_Search.md)
 - [Parametric search (파라메트릭 서치)](./BinarySearch/Parametric_search.md)
+- [lower bound와 upper bound](./BinarySearch/lower_and_upper_bound.md)
 
 <br>
 

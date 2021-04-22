@@ -59,7 +59,7 @@ public class Lower_Upper_bound {
 	private static int lower_bound(int target) {
 		int left = 0;
 		int right = arr.length - 1;
-		int idx = -1;
+		int idx = N-1;
 
 		while (left <= right) {
 			int mid = (left + right) / 2;
@@ -78,7 +78,7 @@ public class Lower_Upper_bound {
 	private static int upper_bound(int target) {
 		int left = 0;
 		int right = arr.length - 1;
-		int idx = -1;
+		int idx = 0;
 		
 		while (left <= right) {
 			int mid = (left + right) / 2;
